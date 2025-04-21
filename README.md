@@ -49,7 +49,7 @@ Extract the files and ensure they are placed in the same directory as the script
 ## Usage
 
 ```
-python assignment_3_natural_language_translation.py
+python En-Hi-Neural-Machine-Translation.py
 ```
 
 ## Model Architecture
