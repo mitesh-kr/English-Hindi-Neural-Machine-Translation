@@ -2,6 +2,9 @@
 
 This repository implements a Neural Machine Translation system for English to Hindi translation using PyTorch. It compares two sequence-to-sequence architectures: LSTM with attention and Transformer models.
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mlWcC_RCEIqDDuBISyZOffNF52cFGK5u?usp=sharing)
+
 ## Features
 
 - Implements both LSTM-based and Transformer-based encoder-decoder models
