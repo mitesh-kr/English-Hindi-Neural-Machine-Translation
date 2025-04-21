@@ -21,18 +21,6 @@ Performance evaluation using BLEU scores showed:
 
 The LSTM model outperformed the Transformer, likely due to dataset size limitations and domain mismatch between training and test data.
 
-## Requirements
-
-```
-torch
-nltk
-numpy
-pandas
-tqdm
-fasttext
-matplotlib
-```
-
 Install dependencies:
 ```
 pip install -r requirements.txt
